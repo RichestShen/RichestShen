@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RichestShen
-- 👀 I major in Automation
-- 🌱 I’m currently learning Python, C and Java
-- 💞️ I’m looking to collaborate on Mathematic Modelling(by Python or Matlab), Android APPs.
+- 👀 I major in Control Science & Engineering.
+- 🌱 I’m currently focusing on intelligent vehicles and autonomous driving.
+- 💞️ I want to collaborate on Decision models, ROS developments, and Racing cars.
 - 📫 How to reach me Qy.Shen@Outlook.com
 
 <!---
